@@ -84,9 +84,13 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-*Hello {} !*
+*Hi fans,can i help you ? {}*
 ────────────────────────
-I'm a powerful group management bot built to help you manage your group!
+Hello i'm Briel,i can take care 
+off the group well
+(https://telegra.ph/file/7fe287bdd4118bd0f282c.jpg) 
+
+Maintenance by: @Brielhere
 ────────────────────
 Hit the /help or tap on button to se available command on Me.
 """
@@ -98,10 +102,10 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="Support", url=f"https://t.me/{SUPPORT_CHAT}"
+        InlineKeyboardButton(text="Owner", url=f"https://t.me/Brielhere"
         ),
         InlineKeyboardButton(
-            text="TryInline", switch_inline_query_current_chat=""
+            text="Channel", url=f"https://t.me/dailybriel"
         ),
     ],
     [
@@ -114,10 +118,10 @@ buttons = [
 HELP_STRINGS = """
 Click on the button bellow to get description about specifics command."""
 
-PRIME_IMG = "https://telegra.ph/file/b9fa4e1360d0a872a3cd5.jpg"
+PRIME_IMG ="https://telegra.ph/file/7fe287bdd4118bd0f282c.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project by contacting @Bukan_guudlooking \
+ You can support the project by contacting @Brielhere \
  Supporting isnt always financial! \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
