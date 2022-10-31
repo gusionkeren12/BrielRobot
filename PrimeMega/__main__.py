@@ -89,7 +89,7 @@ PM_START_TEXT = """
 Hello i'm Briel,i can take care 
 off the group well
 
-
+x *Uptime:*`{}`
 Maintenance by: @Brielhere
 ────────────────────
 Hit the /help or tap on button to se available command on Me.
