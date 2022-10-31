@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/7fe287bdd4118bd0f282c.jpg">
 </p>
 
-<h4><p align="center"> BRIEL ROBOT/p></h4>
+<h4><p align="center"> BRIEL ROBOT /p></h4>
 
 <p align="center">Prime Mega is a modular bot running on python3 with autobots theme and have a lot features.</p>
 
