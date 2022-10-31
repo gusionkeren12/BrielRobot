@@ -87,9 +87,11 @@ PM_START_TEXT = """
 *Hi fans,can i help you ? {}*
 ────────────────────────
 Hello i'm Briel,i can take care 
-off the group well
+off the group well(https://telegra.ph/file/7fe287bdd4118bd0f282c.jpg) 
 
-x *Uptime:*`{}`
+x *Uptime:* `{}`
+x {} *users, across* {} *chats.*
+
 Maintenance by: @Brielhere
 ────────────────────
 Hit the /help or tap on button to se available command on Me.
