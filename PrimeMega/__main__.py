@@ -120,7 +120,7 @@ buttons = [
 HELP_STRINGS = """
 Click on the button bellow to get description about specifics command."""
 
-PRIME_IMG ="""https://telegra.ph/file/7fe287bdd4118bd0f282c.jpg"""
+PRIME_IMG ="""https://telegra.ph/file/7fe287bdd4118bd0f282c.jpg."""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project by contacting @Brielhere \
