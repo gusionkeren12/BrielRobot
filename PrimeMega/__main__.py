@@ -88,7 +88,7 @@ PM_START_TEXT = """
 ────────────────────────
 Hello i'm Briel,i can take care 
 off the group well
-(https://telegra.ph/file/7fe287bdd4118bd0f282c.jpg) 
+
 
 Maintenance by: @Brielhere
 ────────────────────
