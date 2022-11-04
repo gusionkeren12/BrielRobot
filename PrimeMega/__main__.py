@@ -84,10 +84,10 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-*Hi fans,can i help you ? {}*
+*Heyyo fans,ada yang bisa dibantu? {}*
 ────────────────────────
-Hello i'm Briel,i can take care 
-off the group well
+Halo Gua 𝐁𝐫𝐢𝐞𝐥 𝐑𝐨𝐛𝐨𝐭 Management
+and Music bot🔥
 
 x *Uptime:* `{}`
 x {} *users, across* {} *chats.*
