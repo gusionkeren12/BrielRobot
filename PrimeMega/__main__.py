@@ -104,10 +104,10 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="Owner", url=f"https://t.me/Brielhere"
+        InlineKeyboardButton(text="𝐎𝐰𝐧𝐞𝐫", url=f"https://t.me/Brielhere"
         ),
         InlineKeyboardButton(
-            text="Channel", url=f"https://t.me/dailybriel"
+            text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥", url=f"https://t.me/dailybriel"
         ),
     ],
     [
